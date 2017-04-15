@@ -33,11 +33,6 @@ ul#topbar-menu li.menu-item{
 
 }
 
-/*TEST*/
-#bottom-widgets-wrap .widget_text h6{
-   color: blue;
-}
-
 
 .grid-row .grid-col{
    vertical-align: top;
