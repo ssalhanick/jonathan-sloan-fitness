@@ -1,0 +1,63 @@
+/*
+Theme Name: Oshin Child
+Description: Oshin Child Theme
+Author: Brand Exponents
+Template: oshin
+Version: 1.2
+*/
+
+@import url("../oshin/style.css");
+
+
+div.logo{
+   width: 15%;
+}
+
+ul#topbar-menu li.menu-item{
+   display: inline-block;
+}
+
+#main-wrapper{
+   background-color: rgba(191,77,40,.5)
+}
+
+#main #header #header-inner-wrap #header-wrap #header-controls-right{
+   line-height: 6.5em;
+}
+
+.tatsu-one-half{
+   width: 80%;
+}
+
+#header-inner-wrap .top-animate{
+
+}
+
+/*TEST*/
+#bottom-widgets-wrap .widget_text h6{
+   color: blue;
+}
+
+
+.grid-row .grid-col{
+   vertical-align: top;
+}
+
+.grid-row:last-of-type .grid-col:last-of-type{
+   width: 90%!important;
+   border-right-width: 0px;
+}
+
+#footer{
+   background-color: rgba(18,18,18,1);
+}
+
+/* MEDIA QUERIES */
+@media only screen and (max-width: 767px){
+   .tatsu-one-half{
+      width: 100%;
+   };
+   .tatsu-row > div.tatsu-one-fourth:last-child{
+      display: none;
+   };
+}
