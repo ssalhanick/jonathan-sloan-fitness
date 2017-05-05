@@ -38,6 +38,9 @@ ul#topbar-menu li.menu-item{
    padding:0;
 }
 
+textarea{
+   height: 50em;
+}
 
 .grid-row .grid-col{
    vertical-align: top;
