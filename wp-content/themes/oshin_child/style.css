@@ -33,6 +33,11 @@ ul#topbar-menu li.menu-item{
 
 }
 
+.page-title-module-custom {
+	/*padding:30px 0;*/
+   padding:0;
+}
+
 
 .grid-row .grid-col{
    vertical-align: top;
