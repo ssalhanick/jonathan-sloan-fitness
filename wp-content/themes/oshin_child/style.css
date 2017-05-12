@@ -47,9 +47,15 @@ ul#topbar-menu li.menu-item{
    border-right-width: 0px;
 }
 
+#contactInfo{
+   margin-bottom: 0;
+}
+
 #footer{
    background-color: rgba(18,18,18,1);
 }
+
+
 
 /* MEDIA QUERIES */
 @media only screen and (max-width: 767px){
