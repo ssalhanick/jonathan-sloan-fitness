@@ -55,7 +55,17 @@ ul#topbar-menu li.menu-item{
    background-color: rgba(18,18,18,1);
 }
 
+#sb-slidebar-content h6{
+   display: none;
+}
 
+.mc4wp-form-fields{
+   max-width: 95%;
+}
+
+.mc4wp-form-fields p label{
+   display: none;
+}
 
 /* MEDIA QUERIES */
 @media only screen and (max-width: 767px){
