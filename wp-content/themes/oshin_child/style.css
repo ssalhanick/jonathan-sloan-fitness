@@ -59,12 +59,21 @@ ul#topbar-menu li.menu-item{
    display: none;
 }
 
+#sb-slidebar-content #logo-sidebar{
+   display: none;
+}
+
 .mc4wp-form-fields{
-   max-width: 95%;
+   width: 95%;
+   margin: 0 auto;
 }
 
 .mc4wp-form-fields p label{
    display: none;
+}
+
+.mc4wp-form-fields p{
+   margin-bottom: 10px;
 }
 
 /* MEDIA QUERIES */
