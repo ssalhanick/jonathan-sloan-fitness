@@ -72,6 +72,11 @@ ul#topbar-menu li.menu-item{
    margin-bottom: 10px;
 }
 
+input:focus::-webkit-input-placeholder { color:transparent; }
+input:focus:-moz-placeholder { color:transparent; } /* FF 4-18 */
+input:focus::-moz-placeholder { color:transparent; } /* FF 19+ */
+input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
+
 /* MEDIA QUERIES */
 @media only screen and (max-width: 767px){
    .tatsu-one-half{
