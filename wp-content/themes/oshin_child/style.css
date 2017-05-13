@@ -17,6 +17,16 @@ ul#topbar-menu li.menu-item{
    display: inline-block;
 }
 
+
+#navigation .menu .current_page_item{
+   font-weight: bolder;
+}
+
+#navigation .menu .menu-item{
+   font-weight: bold;
+   color: #363636;
+}
+
 #main-wrapper{
    background-color: rgba(191,77,40,.5)
 }
