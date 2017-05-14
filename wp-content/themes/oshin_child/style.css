@@ -22,6 +22,10 @@ ul#topbar-menu li.menu-item{
    font-weight: bolder;
 }
 
+#logo-sidebar .dark-scheme-logo{
+   width: 75%;
+}
+
 #navigation .menu .menu-item{
    color: #363636;
 }
