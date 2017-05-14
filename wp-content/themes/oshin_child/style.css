@@ -23,8 +23,11 @@ ul#topbar-menu li.menu-item{
 }
 
 #navigation .menu .menu-item{
-   font-weight: bold;
    color: #363636;
+}
+
+#navigation ul li{
+   font-weight: 900;
 }
 
 #main-wrapper{
