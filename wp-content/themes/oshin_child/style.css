@@ -76,16 +76,16 @@ ul#topbar-menu li.menu-item{
    display: none;
 }
 
-.mc4wp-form-fields{
+#sb-slidebar-content form{
    width: 95%;
    margin: 0 auto;
 }
 
-.mc4wp-form-fields p label{
+#sb-slidebar-content form p label{
    display: none;
 }
 
-.mc4wp-form-fields p{
+#sb-slidebar-content form p{
    margin-bottom: 10px;
 }
 
