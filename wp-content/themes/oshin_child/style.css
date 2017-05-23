@@ -24,6 +24,7 @@ ul#topbar-menu li.menu-item{
 
 #logo-sidebar .dark-scheme-logo{
    width: 75%;
+   margin: 0 auto;
 }
 
 #navigation .menu .menu-item{
@@ -81,12 +82,21 @@ ul#topbar-menu li.menu-item{
    margin: 0 auto;
 }
 
+#sb-slidebar-content form input[type="text"],
+#sb-slidebar-content form input[type="email"]{
+   margin-bottom: 0;
+}
+
 #sb-slidebar-content form p label{
    display: none;
 }
 
 #sb-slidebar-content form p{
-   margin-bottom: 10px;
+   margin-bottom: 0;
+}
+
+#sb-slidebar-content #availability{
+   height: 70px;
 }
 
 input:focus::-webkit-input-placeholder { color:transparent; }
