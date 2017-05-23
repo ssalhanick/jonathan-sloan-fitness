@@ -77,6 +77,10 @@ ul#topbar-menu li.menu-item{
    display: none;
 }
 
+#sb-slidebar-content .sb-slidebar .widget{
+   line-height: 0;
+}
+
 #sb-slidebar-content form{
    width: 95%;
    margin: 0 auto;
@@ -87,16 +91,20 @@ ul#topbar-menu li.menu-item{
    margin-bottom: 0;
 }
 
+#sb-slidebar-content .logged-in div.wpcf7{
+   margin-top: 0;
+}
+
 #sb-slidebar-content form p label{
    display: none;
 }
 
-#sb-slidebar-content form p{
-   margin-bottom: 0;
+#sb-slidebar-content form p label:last-child{
+   display: block;
 }
 
-#sb-slidebar-content #availability{
-   height: 70px;
+#sb-slidebar-content form p{
+   margin-bottom: 0;
 }
 
 input:focus::-webkit-input-placeholder { color:transparent; }
