@@ -106,8 +106,13 @@ ul#topbar-menu li.menu-item{
    margin: 1em 0;
 }
 
-#sb-slidebar-content form p{
+#sb-slidebar-content form p,
+#customForm #wpcf7-f4511-p4508-o2 form p{
    margin-bottom: 0;
+}
+
+#customForm #wpcf7-f4511-p4508-o2 form p:last-child{
+   margin-bottom: 3em;
 }
 
 #sb-slidebar-content form input[type="submit"],
