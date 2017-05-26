@@ -23,7 +23,7 @@ ul#topbar-menu li.menu-item{
 }
 
 #logo-sidebar .dark-scheme-logo{
-   width: 75%;
+   width: 33%;
    margin: 0 auto;
 }
 
@@ -98,6 +98,10 @@ ul#topbar-menu li.menu-item{
 #sb-slidebar-content form p label,
 #customForm #wpcf7-f4511-p4508-o2 p label{
    display: none;
+}
+
+#sb-slidebar-content form textarea.message{
+   height: 200px;
 }
 
 #sb-slidebar-content form p label:last-child,
