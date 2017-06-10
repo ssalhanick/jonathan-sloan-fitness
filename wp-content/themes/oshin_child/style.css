@@ -92,7 +92,7 @@ ul#topbar-menu li.menu-item{
 }
 
 #sb-slidebar-content .logged-in div.wpcf7{
-   margin-top: 0;
+   margin-top: 0!important;
 }
 
 #sb-slidebar-content form p label,
@@ -100,8 +100,10 @@ ul#topbar-menu li.menu-item{
    display: none;
 }
 
-#sb-slidebar-content form textarea.message{
-   height: 200px;
+#sb-slidebar-content form textarea{
+   margin-bottom: 0;
+   margin-top: 20px;
+   height: 300px;
 }
 
 #sb-slidebar-content form p label:last-child,
@@ -128,6 +130,10 @@ input:focus::-webkit-input-placeholder { color:transparent; }
 input:focus:-moz-placeholder { color:transparent; } /* FF 4-18 */
 input:focus::-moz-placeholder { color:transparent; } /* FF 19+ */
 input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
+
+#sb-slidebar-content #logo-sidebar{
+   display: none;
+}
 
 /* Contact Form Styles */
 #customForm #wpcf7-f4511-p4508-o2{
