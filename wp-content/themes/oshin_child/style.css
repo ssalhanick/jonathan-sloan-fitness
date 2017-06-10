@@ -140,10 +140,13 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
    margin-top: 0;
 }
 
+/*
 #customForm #wpcf7-f4511-p4508-o2 p{
    height: 50px;
    margin-bottom: 15px;
-}
+}*/
+
+
 
 #customForm #wpcf7-f4511-p4508-o2 form input[type="submit"]{
    float: right;
