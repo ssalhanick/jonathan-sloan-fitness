@@ -35,9 +35,7 @@ ul#topbar-menu li.menu-item{
    font-weight: 900;
 }
 
-#main-wrapper{
-   background-color: rgba(191,77,40,.5)
-}
+#main-wrapper{background-color: rgba(240,240,240,1)}
 
 #main #header #header-inner-wrap #header-wrap #header-controls-right{
    line-height: 6.5em;
@@ -133,7 +131,6 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
 
 #sb-slidebar-content #logo-sidebar{
    display: none;
-}
 
 /* Contact Form Styles */
 #customForm #wpcf7-f4511-p4508-o2{
@@ -152,6 +149,11 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
    float: right;
    font-size: 18px;
    width: 33%;
+}
+
+/* Blog Page */
+#blog-content .page-title-module-custom{
+   display: none;
 }
 
 /* MEDIA QUERIES */
