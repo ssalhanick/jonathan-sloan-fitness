@@ -152,7 +152,7 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
 }
 
 /* Blog Page */
-#blog-content .page-title-module-custom{
+section#blog-content{
    display: none!important;
 }
 
