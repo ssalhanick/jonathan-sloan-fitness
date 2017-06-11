@@ -14,9 +14,7 @@ $content_single_sidebar = ( isset($sidebar_flag) && '1' != $sidebar_flag) ? '' :
 $enable_breadcrumb = ( isset($be_themes_data['enable_breadcrumb']) && 1 == $be_themes_data['enable_breadcrumb']) ? 1 : 0;
 
 while ( have_posts() ) : the_post(); ?>
-	<?php
-	//if($enable_breadcrumb){get_template_part( 'page-blogpost-breadcrumb' );
-	}?>
+
 	<section id="content" class="<?php echo esc_attr( $sidebar ); ?>-sidebar-page">
 		<div id="content-wrap" class="be-wrap clearfix">
 			<section id="page-content" class=" <?php echo $content_single_sidebar; ?> ">
