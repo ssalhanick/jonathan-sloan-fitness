@@ -164,7 +164,7 @@ section#blog-content{
    max-width: 820px;
 }
 
-#page-content .element .post-content img{
+#page-content .element .post-content p img{
    width: 100%!important;
    margin: 0.5em 0;
 }
