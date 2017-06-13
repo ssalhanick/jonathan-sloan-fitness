@@ -175,6 +175,6 @@ section#blog-content{
    }
 
    #header-controls-right .sliderbar-menu-controller{
-      display: none;
+      display: none!important;
    }
 }
