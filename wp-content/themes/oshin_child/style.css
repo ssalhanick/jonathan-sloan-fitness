@@ -124,6 +124,10 @@ ul#topbar-menu li.menu-item{
    margin-right: 0;
 }
 
+.mc4wp-checkbox{
+   visibility: hidden;
+}
+
 input:focus::-webkit-input-placeholder { color:transparent; }
 input:focus:-moz-placeholder { color:transparent; } /* FF 4-18 */
 input:focus::-moz-placeholder { color:transparent; } /* FF 19+ */
