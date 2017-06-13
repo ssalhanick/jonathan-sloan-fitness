@@ -173,4 +173,8 @@ section#blog-content{
       display: block;
       width: 100%;
    }
+
+   .be-mobile-menu-icon{
+      display: none;
+   }
 }
