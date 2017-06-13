@@ -160,6 +160,12 @@ section#blog-content{
    display: none!important;
 }
 
+.element .post-content img{
+   width: 100%!important;
+   max-width: 820px;
+   margin: 0.5em 0;
+}
+
 /* MEDIA QUERIES */
 @media only screen and (max-width: 767px){
    .tatsu-one-half{
