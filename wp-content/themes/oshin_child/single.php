@@ -30,11 +30,11 @@ while ( have_posts() ) : the_post(); ?>
 					<?php comments_template( '', true ); ?>
 				</div> <!--  End Optional Page Comments -->
 			</section>
-			<?php if ('no' != $sidebar ){?>
+			<!--<?php if ('no' != $sidebar ){?>
 				<section id="<?php echo esc_attr( $sidebar ); ?>-sidebar" class="sidebar-widgets">
 					<?php get_sidebar( $sidebar ); ?>
 				</section>
-			<?php } ?>
+			<?php } ?>-->
 		</div>
 	</section> <?php
 endwhile;
