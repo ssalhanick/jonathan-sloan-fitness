@@ -174,7 +174,7 @@ section#blog-content{
       width: 100%;
    }
 
-   .be-mobile-menu-icon{
+   #header-controls-right .sliderbar-menu-controller{
       display: none;
    }
 }
