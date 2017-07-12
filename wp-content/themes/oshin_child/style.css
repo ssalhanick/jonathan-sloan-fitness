@@ -169,6 +169,11 @@ section#blog-content{
    padding: 0.5em 0;
 }
 
+
+#service--icons .tatsu-column a{
+   cursor: default;
+}
+
 /* MEDIA QUERIES */
 @media only screen and (max-width: 767px){
    .tatsu-one-half{
