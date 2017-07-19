@@ -160,7 +160,7 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
 }
 
 /* Home Page */
-.owl-controls{
+div.owl-controls{
    display: none;
 }
 
