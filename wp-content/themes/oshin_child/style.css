@@ -8,6 +8,10 @@ Version: 1.2
 
 @import url("../oshin/style.css");
 
+h1{
+   font-weight: bold;
+}
+
 
 div.logo{
    width: 15%;
@@ -154,6 +158,12 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
    font-size: 18px;
    width: 33%;
 }
+
+/* Home Page */
+.owl-controls{
+   display: none;
+}
+
 
 /* Blog Page */
 section#blog-content{
