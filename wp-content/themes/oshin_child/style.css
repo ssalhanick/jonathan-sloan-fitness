@@ -161,7 +161,7 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
 
 /* Home Page */
 #jsf_slider_wrapper{
-   height: 420px;
+   height: 60%!important;
 }
 
 /* Blog Page */
