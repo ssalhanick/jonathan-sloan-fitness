@@ -21,9 +21,13 @@ div.logo{
 ul#topbar-menu li.menu-item{
    display: inline-block;
 }
+
+#navigation a:hover{
+   color: #363636;
+}
+
 #navigation .menu .current_page_item
 {
-
    border-bottom: 3px solid #363636;
 }
 
