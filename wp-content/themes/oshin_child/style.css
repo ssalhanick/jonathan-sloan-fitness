@@ -23,7 +23,8 @@ ul#topbar-menu li.menu-item{
 }
 
 
-#navigation .menu .current_page_item{
+#navigation .menu .current_page_item,
+#navigation .current-menu-item > a{
    color: #363636;
    border-bottom: 3px solid #363636;
 }
