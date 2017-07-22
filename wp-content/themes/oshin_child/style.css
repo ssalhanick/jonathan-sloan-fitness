@@ -159,6 +159,19 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
    width: 33%;
 }
 
+/* Nav */
+#header-wrap #header-controls-left{
+   left: 77%;
+}
+
+#header-wrap #header-controls-left i.tatsu-icon{
+   background-color: #1e1e1e;
+}
+
+#header-wrap .logo{
+   margin: 0 auto;
+}
+
 /* Home Page */
 #jsf_slider_wrapper{
    height: 60%!important;
