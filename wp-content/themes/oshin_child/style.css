@@ -21,12 +21,15 @@ div.logo{
 ul#topbar-menu li.menu-item{
    display: inline-block;
 }
+#navigation .menu .current_page_item
+{
 
+   border-bottom: 3px solid #363636;
+}
 
 #navigation .menu .current_page_item,
 #navigation .current-menu-item > a{
-   color: #363636;
-   border-bottom: 3px solid #363636;
+   color: #363636!important;
 }
 
 #logo-sidebar .dark-scheme-logo{
