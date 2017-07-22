@@ -22,11 +22,6 @@ ul#topbar-menu li.menu-item{
    display: inline-block;
 }
 
-
-#navigation .menu .current_page_item{
-   font-weight: bolder;
-}
-
 #logo-sidebar .dark-scheme-logo{
    width: 33%;
    margin: 0 auto;
@@ -34,6 +29,15 @@ ul#topbar-menu li.menu-item{
 
 #navigation .menu .menu-item{
    color: #f9f9f9;
+}
+
+#navigation .menu .menu-item:hover{
+   border-bottom: 3px solid #f9f9f9;
+}
+
+#navigation .current-menu-item{
+   color: #363636;
+   border-bottom: 3px solid #363636;
 }
 
 #navigation ul li{
