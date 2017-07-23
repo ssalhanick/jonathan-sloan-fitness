@@ -221,6 +221,9 @@ section#blog-content{
    padding: 0.5em 0.5em 0.5em 0.75em;
 }
 
+#page-content .post-content-wrap .article-details{
+   padding: 15px;
+}
 
 #service--icons .tatsu-column a{
    cursor: default;
