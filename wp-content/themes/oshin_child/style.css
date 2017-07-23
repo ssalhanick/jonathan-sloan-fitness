@@ -67,15 +67,14 @@ ul#topbar-menu li.menu-item{
    background-color: transparent;
 }
 
+#sbi-load .sbi_follow_btn{
+   display: none;
+}
+
 /*.tatsu-one-half{
    width: 80%;
 }*/
 
-#header-bottom-bar
-
-#header-inner-wrap .top-animate{
-
-}
 
 .page-title-module-custom {
 	/*padding:30px 0;*/
