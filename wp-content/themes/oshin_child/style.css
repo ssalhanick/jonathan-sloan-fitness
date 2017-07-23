@@ -42,7 +42,7 @@ ul#topbar-menu li.menu-item{
 }
 
 #navigation .menu .menu-item{
-   color: #f9f9f9;
+   color: #594936;
 }
 
 #navigation .menu .menu-item:hover{
@@ -63,9 +63,15 @@ ul#topbar-menu li.menu-item{
    line-height: 5.5em;
 }
 
-.tatsu-one-half{
-   width: 80%;
+#header-inner-wrap #header-bottom-bar{
+   background-color:
 }
+
+/*.tatsu-one-half{
+   width: 80%;
+}*/
+
+#header-bottom-bar
 
 #header-inner-wrap .top-animate{
 
