@@ -215,6 +215,12 @@ section#blog-content{
    padding: 0.5em 0;
 }
 
+#page-content .border-left{
+   margin-left: 0.75em
+   border-left: 4px  solid #bf4d28;
+   padding: 0.5em 0.5em 0.5em 0.75em;
+}
+
 
 #service--icons .tatsu-column a{
    cursor: default;
