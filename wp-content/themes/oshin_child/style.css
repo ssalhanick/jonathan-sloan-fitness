@@ -26,8 +26,9 @@ ul#topbar-menu li.menu-item{
    color: #363636!important;
 }
 
-#navigation .menu .current_page_item
+#navigation .menu .current_page_item a
 {
+   padding-bottom: 3px;
    border-bottom: 3px solid #363636;
 }
 
