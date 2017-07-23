@@ -221,7 +221,7 @@ section#blog-content{
    padding: 0.5em 0.5em 0.5em 0.75em;
 }
 
-.article-details{
+#page-content .post-content-wrap .style4-blog .article-details{
    padding: 1em!important;
 }
 
