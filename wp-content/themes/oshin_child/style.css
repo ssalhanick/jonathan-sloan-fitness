@@ -46,7 +46,7 @@ ul#topbar-menu li.menu-item{
    color: #594936;
 }
 
-#navigation .menu .menu-item:hover{
+#navigation .menu .menu-item:hover + a{
    border-bottom: 3px solid
 }
 
