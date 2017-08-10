@@ -34,7 +34,7 @@ ul#topbar-menu li.menu-item{
 
 #navigation .menu .current_page_item,
 #navigation .current-menu-item > a{
-   color: #F8EDD1!important;
+   color: #bf4d28!important;
 }
 
 #logo-sidebar .dark-scheme-logo{
@@ -43,7 +43,7 @@ ul#topbar-menu li.menu-item{
 }
 
 #navigation .menu .menu-item{
-   color: #594936;
+   color: #F8EDD1;
 }
 
 #navigation .menu .menu-item:hover + a{
