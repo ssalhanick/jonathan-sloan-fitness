@@ -281,5 +281,5 @@ section#blog-content{
 @media (min-width: 1px) and (max-width: 960px){
    #header-controls-right .sliderbar-nav-controller-wrap{
       display: none!important;
-   }
+   };
 }
