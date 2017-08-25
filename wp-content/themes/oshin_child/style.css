@@ -279,7 +279,7 @@ section#blog-content{
 };
 
 @media all and (max-width: 960px){
-   body header #header-inner-wrap #header-controls-right .sliderbar-nav-controller-wrap{
+   body header div#header-inner-wrap div#header-controls-right div.sliderbar-nav-controller-wrap{
       display: none!important;
       visibility: none;
    };
