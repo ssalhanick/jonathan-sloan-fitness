@@ -262,7 +262,9 @@ section#blog-content{
 #service--icons .tatsu-column a{
    cursor: default;
 }
-
+#header-controls-right .sliderbar-nav-controller-wrap{
+   display: inherit!important;
+};
 /* MEDIA QUERIES */
 @media only screen and (max-width: 767px){
    .tatsu-one-half{
