@@ -281,3 +281,9 @@ section#blog-content{
       display: none!important;
    }
 }
+
+@media only screen and (max-width: 960px){
+   .sliderbar-nav-controller-wrap{
+      display: none;
+   }
+}
