@@ -60,11 +60,13 @@ body.page-id-53 #navigation a:hover{
    color: #bf4d28!important;
 }
 /* Homepage Social Media Container */
-body.page-id-53 #sm-container > div{
-   display: inline-block;
+body.page-id-53 ul#hm-sm{
+   list-style-type: none;
+   marign: 0;
+   padding: 0;
 }
 
-body.page-id-53 #sm-container > div i{
+body.page-id-53 ul#hm-sm li{
    display: inline;
    padding: 0 0.25em;
 }
