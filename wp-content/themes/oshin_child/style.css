@@ -32,11 +32,6 @@ ul#topbar-menu li.menu-item{
    color: #bf4d28!important;
 }
 
-/*#navigation .menu .current_page_item a
-{
-   padding-bottom: 3px;
-   border-bottom: 3px solid #F8EDD1;
-}*/
 
 #navigation .menu .current_page_item,
 #navigation .current-menu-item > a{
@@ -64,6 +59,15 @@ body.page-id-53 ul#topbar-menu li.menu-item{
 body.page-id-53 #navigation a:hover{
    color: #bf4d28!important;
 }
+/* Homepage Social Media Container */
+body.page-id-53 #sm-container > div{
+   display: inline-block;
+}
+
+body.page-id-53 #sm-container > div i{
+   display: inline;
+   padding: 0 0.25em;
+}
 
 /*#navigation .menu .current_page_item a
 {
@@ -77,7 +81,7 @@ body.page-id-53 #navigation .current-menu-item > a{
 }
 
 body.page-id-53 #navigation .menu .menu-item{
-   color: #F8EDD1;
+   color: #FFFFFF;
 }
 
 body.page-id-53 #navigation .menu .menu-item:hover + a{
