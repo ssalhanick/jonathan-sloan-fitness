@@ -236,6 +236,10 @@ body.page-id-3558 #header-wrap #header-controls-right span.be-mobile-menu-icon{
    background-color: #232323;
 }
 
+#header-inner-wrap.background--dark.transparent .menu-controls{
+   color: #232323;
+}
+
 /* Blog Page */
 section#blog-content{
    display: none!important;
