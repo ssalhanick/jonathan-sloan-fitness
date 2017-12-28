@@ -225,9 +225,15 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
    margin: 0 auto;
 }
 
+
 /* Home Page */
 #jsf_slider_wrapper{
    height: 60%!important;
+}
+
+/* about page */
+body.page-id-3558 #header-wrap #header-controls-right span.be-mobile-menu-icon{
+   background-color: #232323;
 }
 
 /* Blog Page */
@@ -257,6 +263,8 @@ section#blog-content{
 #service--icons .tatsu-column a{
    cursor: default;
 }
+
+
 
 /* MEDIA QUERIES */
 @media only screen and (max-width: 767px){
