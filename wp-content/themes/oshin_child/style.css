@@ -233,11 +233,11 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
 
 /* about page */
 body.page-id-3558 #header-wrap #header-controls-right span.be-mobile-menu-icon{
-   background-color: #232323;
+   background-color: #232323!important;
 }
 
-#header-inner-wrap.background--dark.transparent .menu-controls{
-   color: #232323;
+body.page-id-3558 #header-inner-wrap.background--dark.transparent .menu-controls{
+   color: #232323!important;
 }
 
 /* Blog Page */
