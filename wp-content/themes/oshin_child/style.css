@@ -240,6 +240,10 @@ body.page-id-3558 #header-inner-wrap.background--dark.transparent .menu-controls
    color: #232323!important;
 }
 
+body.page-id-3558 #header-inner-wrap.background--dark.transparent .be-mobile-menu-icon{
+   background-color: #232323!important;
+}
+
 /* Blog Page */
 section#blog-content{
    display: none!important;
