@@ -159,9 +159,8 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
    width: 33%;
 }
 
-.wpcf7-response-output.wpcf7-mail-sent-ok{
-
-   bottom: 165px;
+.wpcf7-mail-sent-ok{
+   bottom: 165px!important;
 }
 
 /* Home Page */
