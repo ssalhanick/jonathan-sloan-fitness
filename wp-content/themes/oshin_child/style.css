@@ -159,10 +159,9 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
    width: 33%;
 }
 
-body .cf7-style div.wpcf7-response-output{
-   position: absolute;
-   width: 100%;
-   bottom: 78px;
+.wpcf7-response-output.wpcf7-mail-sent-ok{
+
+   bottom: 165px;
 }
 
 /* Home Page */
