@@ -15,6 +15,7 @@ h1{
 
 div.logo{
    width: 15%;
+   margin: 1em auto;
 }
 
 ul#topbar-menu li.menu-item{
@@ -38,6 +39,12 @@ ul#topbar-menu li.menu-item{
 #navigation ul li{
    font-weight: 900;
 }
+
+.page-id-53 #navigation .menu .menu-item{
+   color: white;
+}
+
+
 
 #main-wrapper{background-color: rgba(240,240,240,1)}
 
