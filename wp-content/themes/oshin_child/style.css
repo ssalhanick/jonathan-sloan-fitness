@@ -18,6 +18,10 @@ div.logo{
    margin: 1em auto;
 }
 
+div.logo > img{
+   width: 100%;
+}
+
 ul#topbar-menu li.menu-item{
    display: inline-block;
 }
