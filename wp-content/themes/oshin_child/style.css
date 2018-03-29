@@ -44,8 +44,8 @@ ul#topbar-menu li.menu-item{
    font-weight: 900;
 }
 
-.page-id-53 #navigation .menu .menu-item{
-   color: white;
+.page-id-53 #navigation ul.menu li.menu-item{
+   color: white!important;
 }
 
 
